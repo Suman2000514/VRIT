@@ -1,0 +1,52 @@
+/*{
+   <!-background-image: url(../PNG1.jpg);->
+   background-repeat: no-repeat;
+   background-size: cover;
+}*/
+
+h1{
+    color: brown;
+}
+
+#img1{
+    border-radius: 150px;
+    border-color: aquamarine;
+    border-width: 100px;
+    border-style: groove;
+}
+
+button{
+    border: 1px solid black;
+}
+ /*.font-family{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    font-size: 30px;
+    font-style: italic;
+
+ }*/
+ #d1{
+    color: rgb(85, 42, 165);
+ }
+ *{
+     font-family: 'Roboto', sans-serif;;
+ }
+ h3{
+    color: aqua;
+ }
+
+ .div1{
+    color: rgb(42, 42, 120);
+
+ }
+ .block-elelment{
+    border: 1px solid red;
+    display: inline;
+ }
+ .inline-element{
+    border: 2px solid green;
+    display: block;
+    padding-left: 10px;
+    padding-right: 20px;
+    margin-top: 10px;
+ }
